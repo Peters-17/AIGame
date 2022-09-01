@@ -1,5 +1,5 @@
 # AIGame
-
+Score 100/100
 ## Assignment Goals
 ● Familiarize yourself with solving games using AI.
 ● Practice implementing a minimax algorithm.
